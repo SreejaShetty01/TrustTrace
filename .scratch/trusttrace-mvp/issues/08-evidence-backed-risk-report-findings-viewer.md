@@ -1,5 +1,7 @@
 # 08: Evidence-Backed Risk Report & Findings Viewer
 
+**Assigned work:** A: A05 (viewer). B: B06 (risk/report/evidence API). See [two-person ticket board](../../../TEAM_TICKETS.md). Original dependencies apply to final connected acceptance, not starting the viewer: A can build against fixtures immediately. Support unknown risk as defined by the API contract.
+
 **What to build:**
 A unified results report view combining threat findings, extracted financial claims, trusted-reference comparison results, and PayPal integration status into an intuitive, evidence-linked interface for users.
 

@@ -1,5 +1,7 @@
 # TrustTrace MVP — Ticket Index & Work Distribution
 
+> Use [TEAM_TICKETS.md](../../../TEAM_TICKETS.md) for assigned A/B implementation tickets, independent build order, API agreement, and connection checks. The files below retain original feature scope; local owner/dependency notes point to the new board. Its contract-aligned values supersede conflicting examples here.
+
 **Status:** Planning only. Do not begin implementation until the team approves this index.  
 **Purpose:** Align the existing 10-ticket plan with the final TrustTrace MVP architecture, API contract, security boundaries, and deployment choices.
 

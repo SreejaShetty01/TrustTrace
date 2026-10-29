@@ -1,5 +1,7 @@
 # 09: Human Review, Audit Trail & Deletion
 
+**Assigned work:** A: A07 (controls/history). B: B08 (storage/access/deletion/retention). See [two-person ticket board](../../../TEAM_TICKETS.md). Use mock or stored fixture reports to start independently of the final report engine. Review wire values are proceed, pause, reject, and needs_more_info, superseding alternate values below. Review history and DELETE are documented extensions agreed in C00.
+
 **What to build:**
 A human-in-the-loop review workflow, audit trail recording, and data deletion capability allowing reviewers to register decisions, view historical audit events, and delete analysis records on demand.
 

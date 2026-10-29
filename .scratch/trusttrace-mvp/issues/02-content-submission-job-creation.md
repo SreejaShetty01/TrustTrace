@@ -1,5 +1,7 @@
 # 02: Content Submission & Analysis Creation
 
+**Assigned work:** A: A03 (form/client). B: B02 (validation/create endpoint). See [two-person ticket board](../../../TEAM_TICKETS.md). A uses A02 mocks; B uses HTTP tests. Keep 202 creation plus GET polling, as selected by C00; neither person's implementation blocks the other.
+
 **What to build:**
 The primary user submission workflow where a user pastes suspicious text into the interface, configures optional source metadata, triggers analysis, and receives immediate confirmation with a persisted analysis record and stable UUID.
 

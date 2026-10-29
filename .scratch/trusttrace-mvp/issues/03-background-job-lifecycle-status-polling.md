@@ -1,5 +1,7 @@
 # 03: Analysis Execution, Persistence & Status Retrieval
 
+**Assigned work:** A: A04 (polling/recovery). B: B02 (storage/lifecycle/retrieval). See [two-person ticket board](../../../TEAM_TICKETS.md). A uses mocked lifecycle responses; B tests through HTTP. C00 selects 202 creation with queued/processing/completed/failed status polling over older synchronous alternatives.
+
 **What to build:**
 Analysis lifecycle management and persistent storage enabling analysis reports to survive browser page refreshes, enforcing server-side access checks, and allowing users to retrieve current status and completed results reliably.
 

@@ -1,5 +1,7 @@
 # 01: Dev Scaffold, Shared Schemas & Mock Fixtures
 
+**Assigned work:** A: C00, A01, A02. B: C00, B01. See [two-person ticket board](../../../TEAM_TICKETS.md). After C00, each scaffold and mock/backend work can proceed independently. New-board interface decisions supersede older alternatives below.
+
 **What to build:**
 A baseline developer setup providing a runnable Vite + React frontend, a runnable FastAPI backend, shared data contract schemas, PostgreSQL database configuration via SQLAlchemy or SQLModel, and mock fixture scenarios. This enables both teammates to run their environments locally and develop features against concrete API contracts without blocking on real backend services.
 

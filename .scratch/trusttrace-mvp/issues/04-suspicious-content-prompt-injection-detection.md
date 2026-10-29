@@ -1,5 +1,7 @@
 # 04: Suspicious-Content & Prompt-Injection Detection
 
+**Assigned work:** B: B03 (engine). A: A02 scenarios and A05 presentation only. See [two-person ticket board](../../../TEAM_TICKETS.md). Detection is backend-only; the UI uses fixtures until integration. Severity also permits info per the API contract. Clean fixture tests must pass; this does not promise zero false positives on arbitrary real content.
+
 **What to build:**
 An automated threat detection pipeline that analyzes submitted text for malicious patterns, prompt injection attacks against AI agents, social engineering urgency, impersonation, and altered payment instructions, combining deterministic rules with model assistance.
 

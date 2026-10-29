@@ -1,5 +1,7 @@
 # 05: Financial-Claim Extraction Pipeline
 
+**Assigned work:** B: B04 (extraction). A: A02 scenarios and A05 presentation only. See [two-person ticket board](../../../TEAM_TICKETS.md). B tests text inputs independently; A renders agreed claim fixtures without waiting for extraction.
+
 **What to build:**
 An extraction engine that identifies and structures financial claims present in unstructured messages, emails, or invoices using deterministic extraction and model assistance, providing evidence linkages and explicit uncertainty handling.
 

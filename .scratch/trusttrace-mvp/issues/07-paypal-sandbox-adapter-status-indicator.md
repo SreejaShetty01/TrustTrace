@@ -1,5 +1,7 @@
 # 07: PayPal Adapter & Integration Status
 
+**Assigned work:** A: A06 (status UI). B: B07 (status/adapter). See [two-person ticket board](../../../TEAM_TICKETS.md). A tests all modes through fixtures without credentials. B can complete truthful status/fallback first; real sandbox lookup is conditional on verified access. Simulated data never sets real PayPal context used to true.
+
 **What to build:**
 A tri-modal PayPal verification adapter that verifies invoice/order records against the PayPal Sandbox when credentials are configured, provides an explicitly simulated mock mode for offline testing, and reports transparent integration availability without overpromising capabilities.
 

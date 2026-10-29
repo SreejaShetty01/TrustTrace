@@ -1,5 +1,7 @@
 # 10: End-to-End Hardening & Deployment
 
+**Assigned work:** A: A08 (frontend checks/demo/Vercel). B: B09 (backend checks/Render/Neon). Both: I01/I02 connection and acceptance. See [two-person ticket board](../../../TEAM_TICKETS.md). Local checks/deployment preparation can start independently; final end-to-end acceptance requires both sides.
+
 **What to build:**
 Comprehensive end-to-end scenario verification, API error normalization, input and access controls, and cloud deployment pipelines ensuring TrustTrace runs reliably on Vercel, Render, and Neon PostgreSQL.
 
